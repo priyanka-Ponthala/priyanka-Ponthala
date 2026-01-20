@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello 👋 I’m Priyanka Ponthala
 
-<!--
-**priyanka-Ponthala/priyanka-Ponthala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science undergraduate specializing in **Data Science**, currently studying at **GRIET**, Hyderabad.  
+I enjoy turning ideas into reliable, scalable software and exploring how **AI** can enhance real-world applications.
 
-Here are some ideas to get you started:
+My primary interests lie in **software engineering**, **problem solving**, and building products that focus on **clarity, performance, and user experience**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Technologies I Work With
+
+- **Programming:** Java, Python, JavaScript  
+- **Web:** React, Tailwind CSS, Node.js, Express  , Figma
+- **Databases:** MySQL 
+- **Tools & Systems:** Git, Github 
+
+---
+
+### 🏅 Highlights
+
+- Round-1 qualified IN TCS CodeVita**  
+- **Infosys SpringBoard Full-Stack** Intern  
+
+---
+
+### 📫 Reach Me
+
+- LinkedIn → [https://www.linkedin.com/in/priyanka-ponthala]  
+- Leetcode → [https://leetcode.com/u/Priyanka_Ponthala/]  
+- Email → [priyankaponthala@gmail.com]
